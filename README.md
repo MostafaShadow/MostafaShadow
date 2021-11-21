@@ -1,5 +1,5 @@
 <h1>Hi there 👋 </h1>
-<h1>Hi iam Mostafa Mohamed </h1>
+<h1>I'm Mostafa Mohamed </h1>
 <!--
 **MostafaShadow/MostafaShadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
