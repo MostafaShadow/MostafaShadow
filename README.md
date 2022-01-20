@@ -10,7 +10,7 @@
 <h6>Next js ⚡</h6>
 <h6>Recoil ⚡</h6>
 <h6>Sass ⚡</h6>
-<h6>Tailwindcss</h6>
+<h6>Tailwindcs ⚡</h6>
 <h6>Redux ⚡</h6>
 <h6>many of npm Liabrary 😄</h6>
 <!--
