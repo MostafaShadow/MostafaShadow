@@ -7,6 +7,10 @@
 <h6>Css ⚡</h6>
 <h6>java script ⚡</h6>
 <h6>React js ⚡</h6>
+<h6>Next js ⚡</h6>
+<h6>Recoil ⚡</h6>
+<h6>Sass ⚡</h6>
+<h6>Tailwindcss</h6>
 <h6>Redux ⚡</h6>
 <h6>many of npm Liabrary 😄</h6>
 <!--
