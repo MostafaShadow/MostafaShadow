@@ -1,6 +1,5 @@
 <h1>Hello there 👋 ♥ </h1>
-<h1>I'm Mostafa Mohamed </h1>
-<h1>My nickname is : Shadow  OR Mostafa Shadow</h1>
+<h1>I'M Mostafa Mohamed (Shadow) </h1>
 <h2>I work Full Stack Develober </h2>
 <h4>Frontend Skills:</h4>
 <h6>HTML ⚡</h6>
