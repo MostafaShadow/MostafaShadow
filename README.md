@@ -1,8 +1,8 @@
 <h1>Hello there 👋 ♥ </h1>
 <h1>I'm Mostafa Mohamed </h1>
 <h1>My nickname is : Shadow  OR Mostafa Shadow</h1>
-<h2>I work Front End Develober </h2>
-<h4>My Skills :</h4>
+<h2>I work Full Stack Develober </h2>
+<h4>Frontend Skills:</h4>
 <h6>HTML ⚡</h6>
 <h6>Css ⚡</h6>
 <h6>java script ⚡</h6>
@@ -12,7 +12,17 @@
 <h6>Sass ⚡</h6>
 <h6>Tailwindcs ⚡</h6>
 <h6>Redux ⚡</h6>
-<h6>many of npm Liabrary 😄</h6>
+............................
+<h4>Backend Skills:</h4>
+<h6>Node js⚡</h6>
+<h6>Express ⚡</h6>
+<h6>Mongo DB ⚡</h6>
+<h6> JWT ⚡</h6>
+<h6>monggose⚡</h6>
+<h6> and Others</h6>
+..................
+<h6>And many of npm Liabrary😄</h6>
+
 <!--
 **MostafaShadow/MostafaShadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
