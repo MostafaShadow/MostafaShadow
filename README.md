@@ -1,6 +1,6 @@
 <h1>Hello there 👋 ♥ </h1>
-<h1>I'M Mostafa Mohamed (Shadow) </h1>
-<h2>I work Full Stack Develober </h2>
+<h2>I'M Mostafa Mohamed (Shadow) </h1>
+<h3>I'M Full Stack Develober </h2>
 <h4>Frontend Skills:</h4>
 <h6>HTML ⚡</h6>
 <h6>Css ⚡</h6>
