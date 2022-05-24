@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/swfhfiqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="swfhfiqa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mostafa-mohamed-479b40238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-mohamed-479b40238" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/MostafaShadow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-mohamed-479b40238" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17765443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17765443" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MostafaShadow1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mostafashadow1" height="30" width="40" /></a>
 <a href="https://instagram.com/shadow_coding1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadow_coding1" height="30" width="40" /></a>
